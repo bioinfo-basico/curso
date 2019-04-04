@@ -1,2 +1,2 @@
-# referencia
-Genoma de referencia
+# Curso
+Curso básico de Bioinformática
