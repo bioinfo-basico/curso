@@ -1,0 +1,2 @@
+# referencia
+Genoma de referencia
